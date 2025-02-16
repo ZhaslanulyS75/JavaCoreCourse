@@ -12,6 +12,19 @@ public class Main {
         System.out.println(appleCount);
         System.out.println(melonCount);
 
-        
+        String userName = "Sabyrzhan";
+        System.out.println(userName);
+
+        char firstChar = 'A';
+        char lastChar = 'Z';
+        System.out.println(firstChar);
+        System.out.println(lastChar);
+
+        int x = 10;
+        System.out.println(x);
+
+        final double PI = 3.14;
+        System.out.println(PI);
+
     }
 }
